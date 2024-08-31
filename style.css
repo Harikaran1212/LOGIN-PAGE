@@ -226,7 +226,7 @@ a i{
     }
     
     .icon input{
-    text-align: center;
+    padding-left: 30px;
     width: 90%;
     height: 5vh;
     margin-left: 12px;
@@ -239,7 +239,7 @@ a i{
     }
 
     .icon1 input{
-        text-align: center;
+        padding-left: 30px;
         width: 90%;
         height: 5vh;
         margin-left: 12px;
