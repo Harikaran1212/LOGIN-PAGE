@@ -197,3 +197,85 @@ a i{
     color: white ;
 }
 
+
+@media screen and (max-width:600px) {
+    .container{
+        margin-top: 70px;;
+        margin-left: 35px;
+        width:80%;
+        height: 75vh;
+    }
+    
+    .log{
+        width: 14%;
+        height: 6vh;
+        margin-left: 100px;
+        padding: 10px;
+        margin-top: 13px;
+    }
+
+    .container h1{
+        font-size: 25px;
+        text-align: center;
+    }
+    
+    .container p{
+        font-size: 12px;
+        text-align: center;
+    }
+    
+    .icon input{
+    text-align: center;
+    width: 90%;
+    height: 5vh;
+    margin-left: 12px;
+    margin-top: 10px;
+    }
+
+    .icon i {
+        margin-top: 18px;
+        margin-left: 20px;
+    }
+
+    .icon1 input{
+        text-align: center;
+        width: 90%;
+        height: 5vh;
+        margin-left: 12px;
+        margin-top: 20px;
+        }
+    
+    .icon1 i {
+        margin-top: 28px;
+        margin-left: 20px;
+        }
+    form button{
+        width: 90%;
+        margin-left: 12px;
+        margin-top: 25px;
+    }
+
+    .inner{
+        margin-top: 20px;
+    }
+
+    .inner h2{
+        margin-top: 1px;
+        margin-left: 110px;
+    }
+
+    .inner hr{
+        width: 85%;
+        margin-left: 18px;
+        margin-top: 10px;
+    }
+
+
+    .nav {
+        margin-top: 20px;
+        gap: 10px;
+        width: 85%;
+        margin-left: -20px;
+    }
+
+}
