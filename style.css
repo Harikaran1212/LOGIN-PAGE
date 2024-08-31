@@ -198,18 +198,19 @@ a i{
 }
 
 
+
 @media screen and (max-width:600px) {
     .container{
         margin-top: 70px;;
         margin-left: 35px;
         width:80%;
-        height: 75vh;
+        height: 70vh;
     }
     
     .log{
         width: 14%;
         height: 6vh;
-        margin-left: 100px;
+        margin-left: 110px;
         padding: 10px;
         margin-top: 13px;
     }
@@ -261,7 +262,7 @@ a i{
 
     .inner h2{
         margin-top: 1px;
-        margin-left: 110px;
+        margin-left: 120px;
     }
 
     .inner hr{
